@@ -1,0 +1,6 @@
+Ticker,Rows,Missing_Values,Duplicate_Dates,Invalid_Dates,Unusual_Date_Gaps,Invalid_Prices,Invalid_Volumes,OHLC_Inconsistencies
+AAPL,1255,0,0,0,0,0,0,0
+MSFT,1255,0,0,0,0,0,0,0
+TSLA,1255,0,0,0,0,0,0,0
+AMZN,1255,0,0,0,0,0,0,0
+GOOG,1255,0,0,0,0,0,0,0
